@@ -4,7 +4,9 @@
 /*Ende Google Fonts Import*/
 
 .Marktlogo {
-    size: 5%;
+    filter: grayscale(50%);
+    max-width: 5%;
+    height: auto;
 }
 
 
