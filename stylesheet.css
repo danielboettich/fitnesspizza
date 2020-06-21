@@ -39,7 +39,12 @@ aside section {
 }
 
 aside section img {
-    width: 80%;
+    width: 60%;
+}
+
+aside section p {
+    background-color: turquoise;
+    margin: 0 10% 0 10%;
 }
 
 #headTaste {
