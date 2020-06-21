@@ -97,15 +97,15 @@ aside section p {
 }
 
 #btn1 {
-    top: 15px;
+    top: 1%;
     left: 33%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
 
 #btn2 {
-    top: 15px;
-    left: 83%;
+    top: 1%;
+    left: 84%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
@@ -121,18 +121,21 @@ aside section p {
     height: auto;
 }
 
-
+#Laden {
+    clear: left;
+    margin-top: 50px;
+}
 
 /*FOOTER*/
 #footerLEFT {
     text-align: left;
-    width: 40%;
+    width: 50%;
     float: left;
 }
 
 #footerRIGHT {
     text-align: right;
-    width: 40%;
+    width: 50%;
     float: left;
 }
 /*ENDE FOOTER*/
