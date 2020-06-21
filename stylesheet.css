@@ -133,10 +133,7 @@ aside section p {
 }
 
 .Marktlogo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 70px;
+    height: 60px;
     width: auto;
 }
 
