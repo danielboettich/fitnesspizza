@@ -97,14 +97,14 @@ aside section p {
 }
 
 #btn1 {
-    top: 1%;
+    top: 90%;
     left: 33%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
 
 #btn2 {
-    top: 1%;
+    top: 90%;
     left: 84%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
