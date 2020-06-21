@@ -123,8 +123,19 @@ aside section p {
 
 #Laden {
     clear: left;
-    margin-top: 50px;
+    margin: 50px 0 50px 0;
+    padding: 0 5% 0 5%;
 }
+
+#Laden h4 {
+    text-align: center;
+}
+
+#Laden img {
+    width: 21%;
+    margin: 0 2% 0 2%;
+}
+
 
 /*FOOTER*/
 #footerLEFT {
