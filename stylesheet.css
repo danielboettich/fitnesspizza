@@ -126,14 +126,11 @@ aside section p {
     text-align: center;
 }
 
-.LLogo section {
-    background-color: saddlebrown;
-    margin: 20px 0 20px 0;
-}
 
 .LLogo {
     width: 20%;
-    margin: 0 2% 0 2%;
+    background-color: saddlebrown;
+    margin: 20px 2% 50px 2%;
     float: left;
 }
 
