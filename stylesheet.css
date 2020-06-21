@@ -71,6 +71,7 @@ aside section p {
 #cta1 {
     width: 66%;
     margin-right: 0.9%;
+    float: left;
 }
 
 #cta2 {
