@@ -70,11 +70,11 @@ aside section p {
 
 #CTA {
     margin: 50px 0 50px 0;
+    clear: both;
 }
 
 #CTA button {
-    position: absolute;
-    margin: -50px 0 0 0;
+
 }
 
 #cta1 {
@@ -86,7 +86,6 @@ aside section p {
 #cta2 {
     width: 33%;
     float: left;
-    clear: right;
 }
 
 #FAQ {
