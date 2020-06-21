@@ -8,8 +8,14 @@
     height: auto;
 }
 
-#iconQuality {
-    size: 50%;
-    position: relative;
+
+
+/*FOOTER*/
+#footerLEFT {
+    text-align: left;
 }
 
+#footerRIGHT {
+    text-align: right;
+}
+/*ENDE FOOTER*/
