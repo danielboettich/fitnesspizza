@@ -34,7 +34,6 @@ aside {
 aside section {
     background-color: thistle;
     width: 32%;
-    height: 200px;
     float: left;
     margin: 0 0.6% 0 0.6%;
 }
