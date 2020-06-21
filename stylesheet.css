@@ -30,13 +30,13 @@ aside {
     background-color: teal;
     padding: 0.2% 2% 0.2% 2%;
     margin: 50px 0 50px 0;
-    height: 505px;
+    height: 305px;
 }
 
 aside section {
     background-color: thistle;
     width: 32%;
-    height: 500px;
+    height: 300px;
     float: left;
     margin: 0 0.6% 0 0.6%;
 }
@@ -48,7 +48,7 @@ aside section img {
 
 aside section p {
     background-color: turquoise;
-    margin: 0 10% 0 10%;
+    margin: 25px 10% 0 10%;
     padding: 2% 3% 2% 3%;
     height: 110px;
     border-radius: 10px;
