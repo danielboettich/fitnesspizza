@@ -17,7 +17,7 @@ header {
 }
 
 #Logo {
-    margin: 2% 12% 0 12%;
+    margin: 2% 0 0 27%;
     position: absolute;
     width: 20%;
 }
@@ -39,6 +39,7 @@ aside section {
 }
 
 aside section img {
+    width: 60%;
     margin: 0 20% 0 20%;
 }
 
