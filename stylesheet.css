@@ -8,9 +8,8 @@
     height: auto;
 }
 
+#iconQuality {
+    size: 50%;
+    position: relative;
+}
 
-
-#header {
-    size: 200%;
-    text-align: center;
-}  
