@@ -29,7 +29,7 @@ header {
 aside {
     background-color: teal;
     padding: 0.2% 2% 0.2% 2%;
-
+    clear: right;
 }
 
 aside section {
@@ -50,9 +50,6 @@ aside section p {
     margin: 0 10% 0 10%;
 }
 
-#headTaste {
-    clear: left;
-}
 
 .Marktlogo {
     max-width: 5%;
