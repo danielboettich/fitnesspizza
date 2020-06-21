@@ -126,6 +126,10 @@ aside section p {
     text-align: center;
 }
 
+.LLogo section {
+    margin: 20px 0 20px 0;
+}
+
 .LLogo {
     width: 20%;
     margin: 0 2% 0 2%;
@@ -133,7 +137,7 @@ aside section p {
 }
 
 .Marktlogo {
-    height: 30px;
+    height: 70px;
     width: auto;
 }
 
