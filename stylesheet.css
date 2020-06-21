@@ -73,7 +73,7 @@ aside section p {
 }
 
 #CTA button {
-    position: absolute;
+    position: relative;
     margin: -50px 0 0 0;
 }
 
