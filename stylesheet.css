@@ -26,16 +26,6 @@ header {
     width: 100%;
 }
 
-#hero {
-    position: absolute;
-    top: 70%;
-    left: 23%;
-    color: white;
-}
-
-#hero h3 {
-    font-weight: 200;
-}
 
 .Marktlogo {
     max-width: 5%;
