@@ -116,11 +116,6 @@ aside section p {
 }
 
 
-.Marktlogo {
-    max-width: 5%;
-    height: auto;
-}
-
 #Laden {
     clear: left;
     margin: 50px 0 50px 0;
@@ -131,7 +126,7 @@ aside section p {
     text-align: center;
 }
 
-#Laden img {
+.Marktlogo {
     width: 21%;
     margin: 0 2% 0 2%;
 }
