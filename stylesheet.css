@@ -37,6 +37,10 @@ aside section {
     float: left;
 }
 
+aside section img {
+    width: 80%;
+}
+
 
 
 .Marktlogo {
