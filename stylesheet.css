@@ -88,6 +88,11 @@ aside section p {
     float: left;
 }
 
+#FAQ {
+    margin: 50px 0 0 0;
+}
+
+
 .Marktlogo {
     max-width: 5%;
     height: auto;
