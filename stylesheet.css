@@ -43,19 +43,29 @@ aside section {
 
 aside section img {
     width: 50%;
-    margin: 15px 25% 0 25%;
+    margin: 25px 25% 0 25%;
 }
 
 aside section p {
     background-color: turquoise;
     margin: 25px 10% 0 10%;
     padding: 2% 3% 2% 3%;
-    height: 110px;
+    height: 115px;
     border-radius: 10px;
 }
 
 #headTaste {
     clear: left;
+}
+
+#headTaste h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#textTaste {
+    text-align: center;
+    margin: 20px 0 50px 0;
 }
 
 .Marktlogo {
