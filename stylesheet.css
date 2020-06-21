@@ -126,15 +126,14 @@ aside section p {
     text-align: center;
 }
 
-
 .LLogo {
     width: 20%;
-    background-color: saddlebrown;
     margin: 20px 2% 50px 2%;
     float: left;
 }
 
 .Marktlogo {
+    align-items: center;
     height: 70px;
     width: auto;
 }
