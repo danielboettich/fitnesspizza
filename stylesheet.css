@@ -42,7 +42,9 @@ aside section img {
     width: 80%;
 }
 
-
+#headTaste {
+    clear: left;
+}
 
 .Marktlogo {
     max-width: 5%;
