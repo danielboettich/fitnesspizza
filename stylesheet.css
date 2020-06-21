@@ -26,6 +26,18 @@ header {
     width: 100%;
 }
 
+aside {
+    background-color: teal;
+    padding: 0.2% 2% 0.2% 2%;
+}
+
+aside section {
+    background-color: thistle;
+    width: 32%;
+    float: left;
+}
+
+
 
 .Marktlogo {
     max-width: 5%;
