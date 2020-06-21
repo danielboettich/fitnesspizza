@@ -14,7 +14,6 @@ body {
 
 header {
     width: 100%;
-    margin-bottom: 20px;
 }
 
 #Logo {
@@ -30,6 +29,7 @@ header {
 aside {
     background-color: teal;
     padding: 0.2% 2% 0.2% 2%;
+    margin: 20px 0 20px 0; 
 }
 
 aside section {
