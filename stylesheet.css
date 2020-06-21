@@ -76,7 +76,7 @@ aside section p {
 
 #CTA button {
     position: absolute;
-    background-color: rgba(1, 1, 1, 0);
+    background-color: rgba(1, 1, 1, 0.1);
     color: white;
     font-size: 16px;
     padding: 12px 24px;
@@ -97,15 +97,15 @@ aside section p {
 }
 
 #btn1 {
-    top: 30px;
-    left: 35%;
+    top: 15px;
+    left: 33%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
 
 #btn2 {
-    top: 30px;
-    left: 85%;
+    top: 15px;
+    left: 83%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
