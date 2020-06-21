@@ -17,8 +17,9 @@ header {
 }
 
 #Logo {
-    margin: 20px 0 0 23%;
+    margin: 20px 0 0 27%;
     position: absolute;
+    width: 20%;
 }
 
 #header {
