@@ -17,14 +17,13 @@ header {
 }
 
 #Logo {
-    margin: 20px 0 0 27%;
+    margin: 2% 0 0 27%;
     position: absolute;
     width: 20%;
 }
 
 #header {
     width: 100%;
-    margin: -173px 0 20px 0;
 }
 
 #hero {
