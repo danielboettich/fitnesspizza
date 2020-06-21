@@ -3,14 +3,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 /*Ende Google Fonts Import*/
 
+body {
+    background-color: aliceblue;
+}
+
+#wrapper {
+    margin: 0 15% 0 15%;
+    background-color: bisque;
+}
+
+header {
+    width: 100%;
+}
+
+#Logo {
+    margin: 20px 0 0 23%;
+    position: absolute;
+}
+
+#header {
+    width: 100%;
+    margin: -173px 0 20px 0;
+}
+
+#hero {
+    position: absolute;
+    top: 500px;
+    left: 23%;
+    color: white;
+}
+
 .Marktlogo {
     max-width: 5%;
     height: auto;
 }
 
-#wrapper {
-    margin: 0 15% 0 15%;
-}
 
 
 /*FOOTER*/
