@@ -111,6 +111,7 @@ aside section p {
 }
 
 #FAQ {
+    clear: left;
     margin: 50px 0 0 0;
 }
 
