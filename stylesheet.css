@@ -157,7 +157,16 @@ aside section p {
 }
 
 /*CTA3*/
+#cta3 h3 {
+    text-align: center;
+}
+
+#cta3 p{
+    text-align: center;
+}
+
 #mail {
+    text-align: center;
     width: 25%;
     padding: 12px;
     margin: 8px 0;
@@ -167,7 +176,8 @@ aside section p {
 }
 
 #submit {
-    color: white;
+    text-align: center;
+    color: black;
     border: 1px solid white;
 }
 /*ENDE CTA3*/
