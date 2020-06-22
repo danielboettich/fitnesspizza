@@ -147,6 +147,14 @@ aside section p {
     width: auto;
 }
 
+#reelHead {
+    margin: 10% 0 0 0;
+}
+
+#carousel{
+    margin: 10% 0 0 0;
+}
+
 
 /*FOOTER*/
 #footerLEFT {
