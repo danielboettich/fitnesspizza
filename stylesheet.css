@@ -115,6 +115,13 @@ aside section p {
     margin: 50px 0 0 0;
 }
 
+.Frage{
+    text-align: center;
+}
+
+.Antwort{
+    text-align: center;
+}
 
 #Laden {
     clear: left;
