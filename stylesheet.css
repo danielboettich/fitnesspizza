@@ -158,6 +158,10 @@ aside section p {
 
 
 /*FOOTER*/
+footer{
+    background-color: 246, 246, 246, 1;
+}
+
 #footerLEFT {
     text-align: left;
     width: 50%;
