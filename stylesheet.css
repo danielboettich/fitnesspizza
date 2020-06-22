@@ -157,6 +157,10 @@ aside section p {
 }
 
 /*CTA3*/
+#cta3 {
+    background-color: 123, 170, 160, 1;
+}
+
 #cta3 h3 {
     text-align: center;
     margin: 10% 0 0 0;
