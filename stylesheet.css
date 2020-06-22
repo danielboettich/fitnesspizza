@@ -156,6 +156,21 @@ aside section p {
 
 }
 
+/*CTA3*/
+#mail {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ffffff;
+    box-sizing: border-box;
+}
+
+#submit {
+    color: white;
+    border: 1px solid white;
+}
+/*ENDE CTA3*/
 
 /*FOOTER*/
 footer{
