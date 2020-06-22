@@ -121,6 +121,7 @@ aside section p {
 
 .Antwort{
     text-align: center;
+    margin: 5% 0 5% 0;
 }
 
 #Laden {
@@ -132,7 +133,7 @@ aside section p {
 #Laden h3 {
     text-align: center;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .LLogo {
