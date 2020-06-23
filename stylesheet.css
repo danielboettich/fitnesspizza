@@ -238,7 +238,12 @@ footer {
     float: left;
 }
 
+svg {
+    width: 50px;
+    height: 50px;
+}
+
 svg:hover {
-    fill: rgb(226, 226, 226);
+    fill: red;
 }
 /*ENDE FOOTER*/
