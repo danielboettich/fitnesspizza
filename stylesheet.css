@@ -152,10 +152,6 @@ aside section p {
     text-align: center;
 }
 
-#carousel{
-
-}
-
 /*CTA3*/
 #cta3 {
     background-color: 123, 170, 160, 0;
@@ -190,7 +186,7 @@ aside section p {
 
 /*FOOTER*/
 footer{
-    background-color: 150, 246, 246, 1;
+    background-color: 150, 150, 150;
 }
 
 #footerLEFT {
