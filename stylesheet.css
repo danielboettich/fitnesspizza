@@ -190,12 +190,14 @@ footer{
 }
 
 #footerLEFT {
+    color: teal;
     text-align: left;
     width: 50%;
     float: left;
 }
 
 #footerRIGHT {
+    color: teal;
     text-align: right;
     width: 50%;
     float: left;
