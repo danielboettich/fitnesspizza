@@ -176,9 +176,13 @@ aside section p {
     width: 25%;
     padding: 12px;
     margin: 8px 0;
-    display: inline-block;
     border: 1px solid #ffffff;
     box-sizing: border-box;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
 }
 
 #submit {
