@@ -86,7 +86,7 @@ aside section p {
 }
 
 #cta1 {
-    width: 66%;
+    width: 60%;
     margin-right: 0.9%;
     float: left;
 }
@@ -94,7 +94,7 @@ aside section p {
 
 /*Zoom in Effekt*/
 figure {
-	width: 33%;
+	width: 35%;
 	margin: 0;
 	padding: 0;
 	background: #fff;
