@@ -97,6 +97,15 @@ aside section p {
 }
 
 /*Zoom in Effekt*/
+figure {
+	width: 300px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	overflow: hidden;
+}
+
 .hover01 figure img {
 	-webkit-transform: scale(1);
 	transform: scale(1);
