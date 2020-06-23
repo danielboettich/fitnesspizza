@@ -7,10 +7,12 @@ body {
     background-color: aliceblue;
 }
 
+/*WRAPPER*/
 #wrapper {
     margin: 0 15% 0 15%;
     background-color: bisque;
 }
+/*ENDE WRAPPER*/
 
 /*HEADER*/
 header {
@@ -187,6 +189,7 @@ figure {
 /*CTA3*/
 #cta3 {
     background-color: rgb(123, 170, 160);
+    margin: 2% 0 2% 0;
 }
 
 #cta3 h3 {
