@@ -177,12 +177,7 @@ aside section p {
     padding: 12px;
     margin: 8px 0;
     border: 1px solid #ffffff;
-    box-sizing: border-box;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: auto;
+    box-sizing: border-box;  
 }
 
 #submit {
