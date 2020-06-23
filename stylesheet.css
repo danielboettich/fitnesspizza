@@ -189,6 +189,7 @@ aside section p {
     text-align: center;
     color: black;
     border: 1px solid white;
+    fill: transparent;
 }
 /*ENDE CTA3*/
 
