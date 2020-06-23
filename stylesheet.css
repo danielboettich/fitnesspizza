@@ -204,6 +204,10 @@ figure {
 /*ENDE CTA3*/
 
 /*FOOTER*/
+footer {
+    background-color: rgb(246, 246, 246);
+}
+
 #footerLEFT {
     text-align: left;
     width: 50%;
