@@ -104,8 +104,8 @@ aside section p {
 	transition: .3s ease-in-out;
 }
 .hover01 figure:hover img {
-	-webkit-transform: scale(0.7);
-	transform: scale(0.7);
+	-webkit-transform: scale(0.9);
+	transform: scale(0.9);
 }
 /*Ende Zoom In effekt */
 
