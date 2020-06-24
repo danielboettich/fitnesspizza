@@ -257,6 +257,18 @@ svg {
     .content {
         width: 70%;
     }
+
+    h3 {
+        font-size: 1.9em;
+    }
+
+    h2 {
+        font-size: 2.4em;
+    }
+
+    h1 {
+        font-size: 2.9em;
+    }
 }
 
 
