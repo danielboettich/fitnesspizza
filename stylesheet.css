@@ -26,7 +26,7 @@ header {
 
 #Logo {
     margin: 2% 0 0 27%;
-    position: absolute;
+    justify-content: center;
     width: 20%;
 }
 
