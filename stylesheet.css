@@ -253,11 +253,11 @@ svg {
 
 /*--------------------*/
 
-@media (max-width: 768px){
+@media (min-width: 768px){
     .content {
         width: 50%;
     }
 }
 
-@media (min)
+
 
