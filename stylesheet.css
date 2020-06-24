@@ -8,13 +8,19 @@ body {
 }
 
 /*WRAPPER*/
-#wrapper {
+.wrapper {
     margin: 0 15% 0 15%;
     background-color: bisque;
+    width: 100%;
 }
 /*ENDE WRAPPER*/
 
 /*HEADER*/
+.content {
+    width: 100%;
+    margin: auto;
+}
+
 header {
     width: 100%;
 }
@@ -249,7 +255,7 @@ svg {
 /*--------------------*/
 
 @media (min-width: 768px){
-    #logo  {
-        visibility: hidden;
+    .content {
+        width: 50%;
     }
 }
