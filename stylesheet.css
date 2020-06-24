@@ -249,7 +249,5 @@ svg {
 /*--------------------*/
 
 @media (min-width: 768px){
-    #wrapper {
-        visibility: hidden;
-}
+
 }
