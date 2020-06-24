@@ -258,3 +258,9 @@ svg {
         width: 50%;
     }
 }
+
+@media (max-width: 769px){
+    .content{
+        width: 75%;
+    }
+}
