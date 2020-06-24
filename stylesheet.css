@@ -255,13 +255,9 @@ svg {
 
 @media (min-width: 768px){
     .content {
-        width: 50%;
+        width: 75%;
     }
 }
 
-@media (min-width: 900px){
-    .content{
-        width: 100%;
-    }
-}
+
 
