@@ -245,3 +245,12 @@ svg {
 }
 
 /*ENDE FOOTER*/
+
+/*--------------------*/
+
+@media (min-width: 768px){
+    #wrapper {
+        display: none;
+    }
+}
+
