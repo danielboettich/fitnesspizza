@@ -249,7 +249,7 @@ svg {
 /*--------------------*/
 
 @media (min-width: 768px){
-    #logo img {
+    #logo  {
         visibility: hidden;
     }
 }
