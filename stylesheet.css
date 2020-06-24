@@ -209,6 +209,7 @@ figure {
     margin: 8px 0;
     border: 1px solid #ffffff;
     box-sizing: border-box;  
+    align-items: center;
 }
 
 #submit {
@@ -216,6 +217,7 @@ figure {
     color: black;
     border: 1px solid white;
     fill: transparent;
+    align-items: center;
 }
 /*ENDE CTA3*/
 
