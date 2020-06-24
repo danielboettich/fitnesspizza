@@ -10,7 +10,7 @@ body {
 /*WRAPPER*/
 .wrapper {
     background-color: bisque;
-    width: 50%;
+    width: 100%;
 }
 /*ENDE WRAPPER*/
 
@@ -255,7 +255,7 @@ svg {
 
 @media (min-width: 768px){
     .content {
-        width: 100%;
+        width: 50%;
     }
 }
 
