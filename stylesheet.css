@@ -10,13 +10,13 @@ body {
 /*WRAPPER*/
 .wrapper {
     background-color: bisque;
-    width: 100%;
+    width: 50%;
 }
 /*ENDE WRAPPER*/
 
 /*HEADER*/
 .content {
-    width: 50%;
+    width: 100%;
     margin: auto;
 }
 
