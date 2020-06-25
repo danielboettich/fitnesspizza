@@ -24,8 +24,8 @@ body {
     }
 
     .fixedAtTop {
-        -webkit-transform: translateY(-40px);
-        transform: translateY(-40px);
+        -webkit-transform: translateY(-80px);
+        transform: translateY(-80px);
     }
 
     body::-webkit-scrollbar{ width: 5px;}
