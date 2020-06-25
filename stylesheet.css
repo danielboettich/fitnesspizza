@@ -13,7 +13,8 @@ body {
 
 /*NAV*/
     #logo img {
-        padding: 0.5%;
+        padding: 5%;
+        justify-content: center;
     }
 /*ENDE NAV*/
 
