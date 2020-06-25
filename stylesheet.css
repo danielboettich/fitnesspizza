@@ -107,7 +107,7 @@ aside section p {
 }
 
 #cta1 {
-    width: auto;
+    width: 70%;
     height: auto;
     margin-right: 0.9%;
     float: left;
@@ -115,7 +115,7 @@ aside section p {
 
 #cta2 {
     float: right;
-    width: auto;
+    width: 25%;
     height: auto;
     margin-left: 20%;
 }
