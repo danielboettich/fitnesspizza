@@ -1,4 +1,4 @@
-/*$(function scrolly(){
+$(function scrolly(){
     //Keep track of last scroll
     var lastScroll = 0;
     $(window).scroll(function(event){
@@ -24,10 +24,6 @@
   $('nav').hover(function(){
     $(this).removeClass('fixedAtTop');
   });
-});*/
+});
 
-window.addEventListener("scroll", function()){
-  var header = document.querySelector("nav");
-  navigator.classList.toggle("sticky", window.scrollY > 0);
-}
 
