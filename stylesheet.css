@@ -108,6 +108,7 @@ aside section p {
 
 #cta1 {
     width: auto;
+    height: auto;
     margin-right: 0.9%;
     float: left;
 }
@@ -115,7 +116,8 @@ aside section p {
 #cta2 {
     float: right;
     width: auto;
-    margin-left: 2%;
+    height: auto;
+    margin-left: 20%;
 }
 
 /*Zoom in Effekt*/
