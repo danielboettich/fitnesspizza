@@ -20,7 +20,7 @@ body {
         position: fixed;
         top: 0;
         transition: all ease-in-out 0.4s;
-        box box-shadow: 0 0 20px #bbb;    
+        box-shadow: 0 0 20px #bbb;    
     }
 
     .fixedAtTop {
@@ -28,7 +28,11 @@ body {
         transform: translateY(-80px);
     }
 
-    body::-webkit-scrollbar{ width: 5px;}
+
+    body::-webkit-scrollbar { 
+        width: 5px;
+    }
+
 body::-webkit-scrollbar-track {
   background-color:#ddd;
   border-radius: 0;
@@ -38,7 +42,13 @@ body::-webkit-scrollbar-thumb {
   background-color:#1abc9c;
 }
 
-.handle{width:30px; height:30px; backround:red; z-index:999; position:absolute;}
+.handle {
+    width:30px; 
+    height:30px; 
+    background:red; 
+    z-index:999; 
+    position:absolute;
+}
 /*ENDE NAV*/
 
 /*WRAPPER*/
