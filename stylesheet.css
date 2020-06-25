@@ -114,6 +114,8 @@ aside section p {
 
 #cta2 {
     float: right;
+    width: auto;
+    margin-left: 2%;
 }
 
 /*Zoom in Effekt*/
