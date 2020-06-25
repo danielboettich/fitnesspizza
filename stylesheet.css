@@ -6,10 +6,16 @@
 html{
     overflow-x: hidden;
     }
-    
+
 body {
     background-color: aliceblue;
 }
+
+/*NAV*/
+    #logo img {
+        padding: 0.5%;
+    }
+/*ENDE NAV*/
 
 /*WRAPPER*/
 .wrapper {
