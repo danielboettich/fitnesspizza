@@ -79,6 +79,13 @@ aside section p {
     text-align: center;
     margin: 20px 0 50px 0;
 }
+
+.carousel-item{
+    height: 200px;
+} 
+.carousel-item img{
+    height: 200px;
+}
 /*ENDE GESCHMACKSRICHTUNG*/
 
 /*CTA*/
