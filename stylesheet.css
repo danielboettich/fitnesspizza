@@ -48,6 +48,10 @@ body::-webkit-scrollbar-thumb {
     z-index:999; 
     position:absolute;
 }
+
+nav img {
+    justify-content: center;
+}
 /*ENDE NAV*/
 
 /*WRAPPER*/
