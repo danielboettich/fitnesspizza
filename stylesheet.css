@@ -50,7 +50,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 nav img {
-    justify-content: center;
+    align-self: center;
 }
 /*ENDE NAV*/
 
