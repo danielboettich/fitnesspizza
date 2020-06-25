@@ -280,6 +280,13 @@ svg {
     #carousel {
         height: auto;
     }
+
+    .carousel-item{
+        height: 400px;
+    } 
+    .carousel-item img{
+        height: 400px;
+    }
 }
 
 
