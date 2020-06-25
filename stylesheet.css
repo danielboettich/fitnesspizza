@@ -267,6 +267,14 @@ svg {
     height: 50px;
 }
 
+svg:hover path{
+    fill: red;
+    transition: all ease 0.3s;
+}
+
+svg path {
+    transition: all ease 0.3s;
+}
 /*ENDE FOOTER*/
 
 /*--------------------*/
