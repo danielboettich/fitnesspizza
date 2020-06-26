@@ -307,7 +307,7 @@ footer {
     float: left;
 }
 
-#footerLEFT p {
+#footerLEFT p a {
     text-decoration: none;
     color: black;
 }
