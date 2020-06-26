@@ -321,9 +321,9 @@ svg path {
 
 /*--------------------*/
 
-@media (max-width: 768px){ 
+@media screen and (max-width: 768px){ 
     .content {
-        width: 100%;
+        width: 70%;
     }
 
     h3 {
