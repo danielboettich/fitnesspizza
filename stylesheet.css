@@ -263,11 +263,12 @@ figure {
     background-color: rgb(123, 170, 160);
     padding-top: 0px; /*WHAT DA F*/
     padding-bottom: 20px;
+    margin: 10% 0 0 0;
 }
 
 #cta3 h3 {
     text-align: center;
-    margin: 10% 0 0 0;
+    
     color: white;
 }
 
