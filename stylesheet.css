@@ -67,7 +67,7 @@ nav img {
 
 /*HEADER*/
 .content {
-    width: 100%;
+    width: 70%;
     margin: auto;
 }
 
@@ -323,7 +323,7 @@ svg path {
 
 @media screen and (max-width: 768px){ 
     .content {
-        width: 70%;
+        width: 100%;
     }
 
     h3 {
