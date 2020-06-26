@@ -321,7 +321,7 @@ svg path {
 
 /*--------------------*/
 
-@media (min-width: 768px){
+@media (max-width: 768px){
     .content {
         width: 70%;
     }
@@ -347,7 +347,7 @@ svg path {
         margin-top: 10px;
       margin-left: auto;
       margin-right: auto;
-      width: 15%;
+      width: 15%; /*MUSS GRÖßER SEIN*/
     }
 
 }
