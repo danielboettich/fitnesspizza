@@ -329,18 +329,12 @@ footer {
     color: black;
 }
 
-#svgs {
-   margin-left: auto;
-   margin-right: auto;
-   display: block;
 
-}
-
-/*.row {
+.row svg {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}*/
+}
 
 svg {
     width: 50px;
