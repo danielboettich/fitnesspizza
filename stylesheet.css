@@ -302,6 +302,7 @@ footer {
     height: auto;
     padding-top: 2%;
     width: 70%;
+    align-items: center;
 }
 
 #footerLEFT {
