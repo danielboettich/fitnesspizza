@@ -21,6 +21,7 @@ body {
         top: 0;
         transition: all ease-in-out 0.4s;
         box-shadow: 0 0 20px #bbb;    
+        z-index: 1;
     }
 
     .fixedAtTop {
