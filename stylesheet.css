@@ -321,7 +321,7 @@ svg path {
 
 /*--------------------*/
 
-@media (max-width: 768px){ /*IWIE RIGGED*/
+@media (max-width: 768px){ 
     .content {
         width: 100%;
     }
@@ -347,7 +347,7 @@ svg path {
         margin-top: 10px;
       margin-left: auto;
       margin-right: auto;
-      width: 15%; /*MUSS GRÖßER SEIN*/
+      width: 25%; /*MUSS GRÖßER SEIN*/
     }
 
 }
