@@ -136,11 +136,11 @@ aside section p {
 /*ENDE GESCHMACKSRICHTUNG*/
 
 /*CTA*/
-#CTA {
+/*#CTA {
     position: relative;
     margin: 50px 0 50px 0;
     clear: both;
-}
+}*/
 
 #CTA button {
     position: absolute;
