@@ -331,9 +331,9 @@ footer {
 
 }
 
-/*.row {
-    display: flex;
-}*/
+.row {
+    display: block;
+}
 
 svg {
     width: 50px;
