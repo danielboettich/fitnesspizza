@@ -295,7 +295,9 @@ figure {
     color: black;
     border: 1px solid white;
     fill: transparent;
-    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 /*ENDE CTA3*/
 
