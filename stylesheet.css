@@ -325,8 +325,9 @@ footer {
 }
 
 #svgs {
-   margin: auto;
-   width: 15%;  
+   margin-left: auto;
+   margin-right: auto;
+   display: inline-block;
 }
 
 .row {
