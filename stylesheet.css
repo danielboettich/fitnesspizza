@@ -330,6 +330,10 @@ footer {
     margin-right: auto;
 }
 
+.row {
+    display: flex;
+}
+
 svg {
     width: 50px;
     height: 50px;
