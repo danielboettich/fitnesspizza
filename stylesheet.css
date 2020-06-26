@@ -330,10 +330,11 @@ footer {
 }
 
 
-.row #svgs {
+.row svg {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
 }
 
 svg {
