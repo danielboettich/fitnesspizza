@@ -321,9 +321,9 @@ svg path {
 
 /*--------------------*/
 
-@media (max-width: 768px){
+@media (max-width: 768px){ /*IWIE RIGGED*/
     .content {
-        width: 70%;
+        width: 100%;
     }
 
     h3 {
