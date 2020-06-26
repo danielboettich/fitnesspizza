@@ -299,7 +299,7 @@ figure {
 footer {
     background-color: rgb(246, 246, 246);
     height: auto;
-    margin-top: 2%;
+    padding-top: 2%;
 }
 
 #footerLEFT {
