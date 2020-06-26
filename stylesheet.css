@@ -261,7 +261,7 @@ figure {
 /*CTA3*/
 #cta3 {
     background-color: rgb(123, 170, 160);
-    padding-top: 0px;
+    padding-top: 2px; /*WHAT DA F*/
     padding-bottom: 20px;
 }
 
