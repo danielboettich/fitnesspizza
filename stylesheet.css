@@ -152,8 +152,7 @@ aside section p {
     cursor: pointer;
     border-radius: 5px;
 }
-
-/*#cta1 {
+#cta1 {
     width: 70%;
     height: auto;
     margin-right: 0.9%;
@@ -165,7 +164,7 @@ aside section p {
     width: 30%;
     height: auto;
     margin-left: 20%;
-}*/
+}
 .lb {
     
     background: blue;
@@ -173,7 +172,8 @@ aside section p {
     padding-bottom: 50px;
   }
   
-  .column1 {
+ 
+/* .column1 {
     width: 70%;
     float: left;  
   }
@@ -181,7 +181,7 @@ aside section p {
   .column2 {
       width: 30%;
       float: left;
-  }
+  }*/
 /*Zoom in Effekt*/
 figure {
 	
