@@ -313,7 +313,7 @@ svg {
 }
 
 svg:hover path{
-    fill: rgb(226, 226, 226);
+    fill: rgb(84, 84, 84);
     transition: all ease 0.3s;
 }
 
