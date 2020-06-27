@@ -184,8 +184,7 @@ aside section p {
   }
 /*Zoom in Effekt*/
 figure {
-	margin: 0;
-	padding: 0;
+	
 	overflow: hidden;
     float: left;
 }
