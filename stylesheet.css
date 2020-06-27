@@ -172,7 +172,7 @@ aside section p {
   
   .column1 {
     flex: 70%;
-    /*padding: 5px;*/
+    padding: 20px;
   }
 
   .column2 {
