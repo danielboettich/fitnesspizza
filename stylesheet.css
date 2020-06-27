@@ -84,14 +84,14 @@ header {
 
 /*SPRECHBLASEN*/
 aside {
-    background-color: teal;
+    
     padding: 0.2% 2% 0.2% 2%;
     margin: 50px 0 50px 0;
     height: 405px;
 }
 
 aside section {
-    background-color: thistle;
+    
     width: 32%;
     height: 400px;
     float: left;
@@ -104,7 +104,7 @@ aside section img {
 }
 
 aside section p {
-    background-color: turquoise;
+    background-color: rgb(226, 226, 226);
     margin: 25px 10% 0 10%;
     padding: 2% 3% 2% 3%;
     height: 115px;
@@ -336,8 +336,7 @@ svg path {
 
 /*FOOTER*/
 footer {
-    background-color: rgb(212, 40, 40);
-    
+      
     padding-top: 2%;
     width: 70%;
     display: block;
