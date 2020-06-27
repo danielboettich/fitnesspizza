@@ -233,7 +233,7 @@ figure {
 
 /*ERHÄLTLICH BEI*/
 
-h3 {
+.row h3 {
     text-align: center;
     text-transform: uppercase;
     font-weight: 500;
