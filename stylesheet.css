@@ -172,7 +172,7 @@ aside section p {
   
   .column1 {
     flex: 70%;
-    padding: 20px;
+    /*padding: 5px;*/
   }
 
   .column2 {
@@ -180,8 +180,8 @@ aside section p {
       /*padding: 5px;*/
   }
 /*Zoom in Effekt*/
-/*figure {
-	width: 35%;
+figure {
+	
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
@@ -197,7 +197,7 @@ aside section p {
 .hover01 figure:hover img {
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
-}*/
+}
 /*Ende Zoom In effekt */
 
 #btn1 {
