@@ -302,11 +302,11 @@ figure {
 /*ENDE CTA3*/
 
 /*SOCIAL MEDIA*/
-.row1 svg {
+/*.row1 svg {
     display: flex;
     margin-left: auto;
     margin-right: auto;
-}
+}*/
 
 svg {
     width: 50px;
