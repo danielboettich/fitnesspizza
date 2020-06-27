@@ -162,7 +162,7 @@ aside section p {
 
 #cta2 {
     float: right;
-    width: 25%;
+    width: 30%;
     height: auto;
     margin-left: 20%;
 }*/
@@ -170,9 +170,14 @@ aside section p {
     display: flex;
   }
   
-  .column {
-    flex: 33.33%;
+  .column1 {
+    flex: 70%;
     padding: 5px;
+  }
+
+  .column2 {
+      flex: 30%;
+      padding: 5px;
   }
 /*Zoom in Effekt*/
 figure {
