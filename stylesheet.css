@@ -170,8 +170,16 @@ aside section p {
     padding-top: 50px;
     padding-bottom: 50px;
   }
-  
- 
+
+.column1 {
+    width: 70%;
+    float: left;
+}
+
+.column2 {
+    width: 30%;
+    float: right;
+}
 
 /*Zoom in Effekt*/
 figure {
