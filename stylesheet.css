@@ -245,15 +245,13 @@ figure {
 }
 
 .LLogo {
-    width: 20%;
-    margin: 20px 2% 50px 2%;
-    float: left;
+    width: 20%;   
 }
 
 .Marktlogo {
     height: 60px;
     width: auto;
-    display: inline-flex;
+    
 }
 /*ENDE ERHÄLTLICH BEI*/
 
