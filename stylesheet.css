@@ -166,18 +166,18 @@ aside section p {
     height: auto;
     margin-left: 20%;
 }*/
-.row {
+/*.row {
     display: flex;
-  }
+  }*/
   
   .column1 {
-    flex: 70%;
-    
+    width: 70%;
+    float: left;  
   }
 
   .column2 {
-      flex: 30%;
-      
+      width: 30%;
+      float: left;
   }
 /*Zoom in Effekt*/
 figure {
