@@ -259,7 +259,7 @@ figure {
 /*CTA3*/
 #cta3 {
     background-color: rgb(123, 170, 160);
-    padding-top: 20px; /*WHAT DA F*/
+    padding-top: 20px; 
     padding-bottom: 20px;
     margin-top: 5%;
     
@@ -286,6 +286,7 @@ figure {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 5px;
 }
 
 #submit {
