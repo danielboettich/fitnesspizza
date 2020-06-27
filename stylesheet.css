@@ -300,6 +300,28 @@ figure {
 }
 /*ENDE CTA3*/
 
+/*SOCIAL MEDIA*/
+.row1 svg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+svg {
+    width: 50px;
+    height: 50px;
+}
+
+svg:hover path{
+    fill: rgb(226, 226, 226);
+    transition: all ease 0.3s;
+}
+
+svg path {
+    transition: all ease 0.3s;
+}
+/*ENDE SOCIAL MEDIA*/
+
 /*FOOTER*/
 footer {
     background-color: rgb(212, 40, 40);
@@ -334,25 +356,7 @@ footer {
 }
 
 
-.row1 svg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 
-svg {
-    width: 50px;
-    height: 50px;
-}
-
-svg:hover path{
-    fill: rgb(226, 226, 226);
-    transition: all ease 0.3s;
-}
-
-svg path {
-    transition: all ease 0.3s;
-}
 /*ENDE FOOTER*/
 
 /*--------------------*/
