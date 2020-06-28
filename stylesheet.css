@@ -324,7 +324,7 @@ svg path {
 
 /*FOOTER*/
 
-#wrapper2 {
+.wrapper2 {
     width: 100%;
     background-color: rgb(246, 246, 246);
 }
