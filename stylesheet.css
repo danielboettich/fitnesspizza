@@ -178,7 +178,8 @@ aside section p {
     width: 30%;
     height: auto;
 }
-.lb {
+
+/*.lb {
     width: 100%;
     background: blue;
     padding-top: 50px;
@@ -193,8 +194,7 @@ aside section p {
 .column2 {
     width: 30%;
     float: left;
-}
-
+}*/
 /*Zoom in Effekt*/
 figure {
 	
@@ -409,7 +409,7 @@ footer {
         margin-top: 10px;
       margin-left: auto;
       margin-right: auto;
-      width: 50%; /*MUSS GRÖßER SEIN*/
+      width: 50%; 
     }
 
     .row {
@@ -429,6 +429,7 @@ footer {
     #mail {
         width: 75%;
     }
+
 }
 
 
