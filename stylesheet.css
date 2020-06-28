@@ -381,6 +381,7 @@ footer {
     aside section {
         width: 100%;
         float: left;
+        margin-bottom: 2%;
     }
 
     h3 {
