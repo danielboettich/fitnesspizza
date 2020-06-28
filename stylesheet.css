@@ -349,6 +349,7 @@ footer {
     text-align: right;
     width: 50%;
     float: left;
+    background-color: rgb(246, 246, 246)
 }
 
 #footerRIGHT p a {
