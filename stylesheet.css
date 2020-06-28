@@ -83,7 +83,8 @@ header {
 
 #claim {
     position: absolute;
-    
+    margin-top: -50px;
+
 }
 /*ENDE HEADER*/
 
