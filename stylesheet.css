@@ -410,6 +410,10 @@ footer {
         padding-bottom: 20px;
     }
 
+    .row img {
+        padding: 20px;
+    }
+
 }
 
 
