@@ -169,14 +169,14 @@ aside section p {
 }
 #cta1 {
     width: 100%;
-    height: auto;
+    height: 500px;
     float: left;
 }
 
 #cta2 {
     float: left;
     width: 100%;
-    height: auto;
+    height: 500px;
 }
 
 .row.cta {
