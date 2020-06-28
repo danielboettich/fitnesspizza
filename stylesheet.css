@@ -405,9 +405,8 @@ footer {
       width: 25%; /*MUSS GRÖßER SEIN*/
     }
 
-    #faq {
-        padding-top: 50%;
-        padding-bottom: 50%;
+    .row {
+        margin: 5%;
     }
 
 }
