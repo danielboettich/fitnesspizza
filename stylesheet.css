@@ -410,7 +410,9 @@ footer {
     }
 
     .row svg {
+        padding: 50px;
         margin: 20px;
+
     }
     
     #mail {
