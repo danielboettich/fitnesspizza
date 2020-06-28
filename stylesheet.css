@@ -420,8 +420,7 @@ footer {
     }
 
     .col-sm-3 d-flex justify-content-center {
-        width: 20%;
-        float: left;
+        display: inline-block;
     }
 
 }
