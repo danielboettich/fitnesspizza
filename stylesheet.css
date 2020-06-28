@@ -179,22 +179,22 @@ aside section p {
     height: auto;
 }
 
-.row {
+/*.lb {
     width: 100%;
     background: blue;
     padding-top: 50px;
     padding-bottom: 50px;
   }
 
-.col col-12 col-lg-8 {
+.column1 {
     width: 70%;
     float: left;
 }
 
-.col col-12 col-lg-4 hover01 {
+.column2 {
     width: 30%;
     float: left;
-}
+}*/
 /*Zoom in Effekt*/
 figure {
 	
