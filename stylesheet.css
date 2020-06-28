@@ -385,6 +385,7 @@ footer {
     }
 
     #carousel {
+        width: auto;
         height: 600px;
     }
 
