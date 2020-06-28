@@ -384,7 +384,7 @@ footer {
         margin-bottom: 2%;
     }
 
-    #carousel {
+    .carousel-inner {
         
         height: 850px;
     }
