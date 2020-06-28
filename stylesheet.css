@@ -400,7 +400,10 @@ footer {
       width: 50%; 
     }
 
-    
+    .row {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
 
     .row img {
         margin: 20px;
@@ -408,8 +411,6 @@ footer {
 
     .row svg {
         margin: 20px;
-        height: 100px;
-        width: 100px;
     }
     
     #mail {
