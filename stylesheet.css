@@ -427,6 +427,9 @@ footer {
 
     .row svg {
         margin: 20px;
+        
+    }
+    .col-sm-3 d-flex justify-content-center {
         display: flex;
     }
 
