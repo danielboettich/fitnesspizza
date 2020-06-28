@@ -8,7 +8,7 @@ html{
     }
 
 body {
-    background-color: aliceblue;
+    background-color: white;
 }
 
 /*NAV*/
@@ -61,7 +61,7 @@ nav img {
 
 /*WRAPPER*/
 .wrapper {
-    background-color: bisque;
+    background-color: white;
     width: 100%;
 }
 /*ENDE WRAPPER*/
