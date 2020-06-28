@@ -411,7 +411,8 @@ footer {
 
     .row svg {
         margin: 20px;
-        
+        height: 75px;
+        width: auto;
     }
     
     #mail {
