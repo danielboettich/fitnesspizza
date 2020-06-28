@@ -405,6 +405,10 @@ footer {
       width: 25%; /*MUSS GRÖßER SEIN*/
     }
 
+    #faq {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
 
 }
 
