@@ -406,8 +406,8 @@ footer {
     }
 
     #faq {
-        margin-top: 50%;
-        margin-bottom: 50%;
+        padding-top: 50%;
+        padding-bottom: 50%;
     }
 
 }
