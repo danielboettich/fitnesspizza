@@ -167,6 +167,9 @@ aside section p {
     cursor: pointer;
     border-radius: 5px;
 }
+.row.cta {
+    width: 100%;
+}
 #cta1 {
     width: 100%;
     height: auto;
@@ -179,9 +182,7 @@ aside section p {
     height: auto;
 }
 
-.row.cta {
-    width: 100%;
-}
+
 /*Zoom in Effekt*/
 figure {
 	
