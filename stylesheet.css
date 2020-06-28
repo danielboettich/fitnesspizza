@@ -195,6 +195,10 @@ aside section p {
     width: 30%;
     float: left;
 }*/
+
+.row.cta {
+    width: 100%;
+}
 /*Zoom in Effekt*/
 figure {
 	
