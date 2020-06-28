@@ -414,4 +414,56 @@ footer {
 }
 
 
+@media screen and (max-width: 1024px){ 
+    .content {
+        width: 100%;
+    }
+
+    aside section {
+        width: 100%;
+        float: left;
+        margin-bottom: 2%;
+    }
+
+    #claim {
+        margin-left: 20px;
+        margin-top: -130px;
+        font-size: 50%;
+        font-weight: 700;
+    }
+    
+
+    h3 {
+        font-size: 1.9em;
+    }
+
+    h2 {
+        font-size: 2.4em;
+    }
+
+    h1 {
+        font-size: 2.9em;
+    }
+
+    nav img {
+        display: block;
+        margin-top: 10px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%; 
+    }
+
+    
+    .row img {
+        margin: 20px;
+    }
+
+        
+    #mail {
+        width: 75%;
+    }
+
+}
+
+
 
