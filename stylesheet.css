@@ -378,6 +378,11 @@ footer {
         width: 100%;
     }
 
+    #claim {
+        font-size: 16px;
+
+    }
+
     h3 {
         font-size: 1.9em;
     }
