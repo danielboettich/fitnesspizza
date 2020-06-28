@@ -384,6 +384,11 @@ footer {
         margin-bottom: 2%;
     }
 
+    #claim {
+        margin-left: 20px;
+        font-size: 20%;
+    }
+    
 
     h3 {
         font-size: 1.9em;
