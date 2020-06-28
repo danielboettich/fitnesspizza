@@ -323,6 +323,11 @@ svg path {
 /*ENDE SOCIAL MEDIA*/
 
 /*FOOTER*/
+
+#wrapper2 {
+    width: 100%;
+}
+
 footer {
       
     padding-top: 2%;
