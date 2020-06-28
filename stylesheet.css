@@ -384,7 +384,6 @@ footer {
         margin-bottom: 2%;
     }
 
-    
 
     h3 {
         font-size: 1.9em;
@@ -398,10 +397,6 @@ footer {
         font-size: 2.9em;
     }
 
-    #carousel {
-        height: auto;
-    }
-
     nav img {
         display: block;
         margin-top: 10px;
@@ -409,6 +404,7 @@ footer {
       margin-right: auto;
       width: 25%; /*MUSS GRÖßER SEIN*/
     }
+
 
 }
 
