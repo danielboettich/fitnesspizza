@@ -378,9 +378,9 @@ footer {
         width: 100%;
     }
 
-    #claim {
-        font-size: 16px;
-
+    aside section {
+        width: 100%;
+        float: left;
     }
 
     h3 {
