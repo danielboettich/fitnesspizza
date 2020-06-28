@@ -349,6 +349,8 @@ footer {
 #footerLEFT p a {
     text-decoration: none;
     color: black;
+    margin-top: 5px;
+    margin-left: 5px;
 }
 
 #footerRIGHT {
