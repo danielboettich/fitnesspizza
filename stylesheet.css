@@ -427,7 +427,7 @@ footer {
 
     .row svg {
         margin: 20px;
-        
+        display: flex;
     }
 
     #mail {
