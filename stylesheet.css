@@ -168,33 +168,16 @@ aside section p {
     border-radius: 5px;
 }
 #cta1 {
-    width: 69%;
+    width: 100%;
     height: auto;
     float: left;
 }
 
 #cta2 {
     float: left;
-    width: 30%;
+    width: 100%;
     height: auto;
 }
-
-/*.lb {
-    width: 100%;
-    background: blue;
-    padding-top: 50px;
-    padding-bottom: 50px;
-  }
-
-.column1 {
-    width: 70%;
-    float: left;
-}
-
-.column2 {
-    width: 30%;
-    float: left;
-}*/
 
 .row.cta {
     width: 100%;
