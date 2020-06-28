@@ -384,6 +384,10 @@ footer {
         margin-bottom: 2%;
     }
 
+    #carousel {
+        height: 60%;
+    }
+
     h3 {
         font-size: 1.9em;
     }
