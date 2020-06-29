@@ -343,7 +343,7 @@ footer {
     width: 50%;
     float: left;
     background-color: rgb(246, 246, 246);
-    margin-left: -50px;
+    
 }
 
 #footerLEFT p a {
@@ -358,7 +358,7 @@ footer {
     width: 50%;
     float: left;
     background-color: rgb(246, 246, 246);
-    margin-right: 50px; 
+     
 }
 
 #footerRIGHT p a {
