@@ -15,6 +15,18 @@ h1 {
     font-size: 64px;
 }
 
+h2 {
+    font-size: 54px;
+}
+
+h3 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 40px;
+}
+
 /*NAV*/
     nav {
         width: 100%;
