@@ -255,6 +255,7 @@ figure {
 
 .Marktlogo {
     height: 60px;
+    filter: grayscale(100%);
 }
 /*ENDE ERHÄLTLICH BEI*/
 
