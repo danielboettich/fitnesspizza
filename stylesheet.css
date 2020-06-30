@@ -11,6 +11,10 @@ body {
     background-color: white;
 }
 
+h1 {
+    font-size: 64px;
+}
+
 /*NAV*/
     nav {
         width: 100%;
@@ -142,21 +146,10 @@ aside section p {
     margin: 20px 0 50px 0;
 }
 
-/*.carousel-item{
-    height: 600px;
-} 
-.carousel-item img{
-    height: 600px;
-}*/
 
 /*ENDE GESCHMACKSRICHTUNG*/
 
 /*CTA*/
-/*#CTA {
-    position: relative;
-    margin: 50px 0 50px 0;
-    clear: both;
-}*/
 
 #CTA button {
     position: absolute;
