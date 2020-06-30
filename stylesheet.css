@@ -104,6 +104,10 @@ aside {
     height: 205px;
 }
 
+aside section img {
+    size: 75%;
+}
+
 aside section {
     
     width: 32%;
